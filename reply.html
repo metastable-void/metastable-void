@@ -1,0 +1,8 @@
+<!doctype html>
+<meta charset='utf-8'>
+<script>
+//const pairs = location.search.substr(1).split('&').map(pair => pair.match(/^([^=]*)=?(.*)$/).slice(1));
+const params = new URLSearchParams(location.search);
+params.set('url', location.href);
+location.replace('https://twitter.com/intent/tweet?' + params);
+</script>
