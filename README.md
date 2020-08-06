@@ -1,6 +1,7 @@
 # 真空
 
 ![Build: buggy](https://img.shields.io/badge/build-buggy-yellow)
+![Pronoun: they/them](https://img.shields.io/badge/pronoun-they/them-blueviolet)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 ![Language: jbo](https://img.shields.io/badge/lang-jbo-green)
