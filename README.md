@@ -12,6 +12,7 @@ Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
+Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
 ## Timeline
 
