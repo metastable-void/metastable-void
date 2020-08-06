@@ -1,6 +1,9 @@
 # 真空
 
 ![Build: buggy](https://img.shields.io/badge/build-buggy-yellow)
+![Language: ja](https://img.shields.io/badge/lang-ja-blue)
+![Language: en](https://img.shields.io/badge/lang-en-green)
+![Language: jbo](https://img.shields.io/badge/lang-jbo-green)
 
 Methematical (formal) humanities/art, computational music theory, philosophy, linguistics, public health, geography.
 
