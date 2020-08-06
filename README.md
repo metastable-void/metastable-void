@@ -14,7 +14,7 @@ Alternative name | あっと, At (@)
 Pronoun | they/them
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
-Other languages | English, Lojban
+Other languages | English, Lojban, Toki Pona
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
