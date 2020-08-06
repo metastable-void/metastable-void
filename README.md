@@ -25,6 +25,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personoaliti
 
 - [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org）
 - [x] 想像地図研究所オブザーバー
+- [x] Cyphanese Team
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場
 - [x] **January 2020 -**: Director at 東京大学教養学部学生自治会
 - [ ] **June 2020**: TA at TeaTime Tech Lab
