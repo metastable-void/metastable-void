@@ -19,7 +19,7 @@ Other languages | English, Lojban, Toki Pona
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
-Caveats | Dissosiation, depersonalisation, discontinuous changes in personoalities, possible psychosis
+Caveats | Dissosiation, depersonalisation, discontinuous changes in personoalities, possible psychosis, ADHD
 
 ## Timeline
 
