@@ -39,10 +39,10 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 Alphabet | ID | Screen name | Proper name | Description
 ---------|----|-------------|-------------|-------------
 M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | masora_m | 真空は準安定 | 公開界隈リア垢．
-C | [867272019359842304](https://twitter.com/intent/user?user_id=867272019359842304) | masora_c | 学際垢（真空大学） | 大学用公開アカウント—越境する痴性．
+C | [867272019359842304](https://twitter.com/intent/user?user_id=867272019359842304) | masora_c | 学際垢（真空大学） | 大学用公開アカウント——越境する痴性．
 T | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | menhera_org | 真空の相転移 | 汎用鍵アカウント．
-W | [986129149029793793](https://twitter.com/intent/user?user_id=986129149029793793) | metastable_void | 真空温泉 | 業務用アカウント—真空の，机の上．
-E | *** | *** | 真空のエネルギー | 縮小アカウント—真空の「好き」が詰まってる．
+W | [986129149029793793](https://twitter.com/intent/user?user_id=986129149029793793) | metastable_void | 真空温泉 | 業務用アカウント——真空の，机の上．
+E | *** | *** | 真空のエネルギー | 縮小アカウント——真空の「好き」が詰まってる．
 R | *** | *** | 文系垢 | 鍵リア垢．
 
 ## Related DNS domains
