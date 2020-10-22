@@ -29,7 +29,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
-- [x] **January 2020 -**: Director at 東京大学教養学部学生自治会
+- [x] **January 2020 -**: Director at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [x] **March 2018**: 東京大学地文研究会地理部67期
 - [ ] **November 2017 - November 2019**: Web PM at 東大女装子コンテスト 
@@ -38,9 +38,9 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 ## Twitter accounts
 Alphabet | ID | Screen name | Proper name | Description
 ---------|----|-------------|-------------|-------------
-M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | masora_m | 真空は準安定 | 公開界隈リア垢．
+M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | masora_m | 真空は準安定 | 公開界隈リア垢——真空がみえる．
 C | [867272019359842304](https://twitter.com/intent/user?user_id=867272019359842304) | masora_c | 学際垢（真空大学） | 大学用公開アカウント——越境する痴性．
-T | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | menhera_org | 真空の相転移 | 汎用鍵アカウント．
+T | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | menhera_org | 真空の相転移 | 汎用鍵アカウント——真空を，もっと．
 W | [986129149029793793](https://twitter.com/intent/user?user_id=986129149029793793) | metastable_void | 真空温泉 | 業務用アカウント——真空の，机の上．
 E | *** | *** | 真空のエネルギー | 縮小アカウント——真空の「好き」が詰まってる．
 R | *** | *** | 文系垢 | 鍵リア垢．
@@ -53,9 +53,14 @@ menhera.org | Route 53 / AWS | Menhera.org organisational main domain
 menhealer.org | Route 53 / AWS | Menhera.org alias?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organizational domain?) (TODO: update registration information)
+u-tokyo.app | Google Domains / GCP | 学生情報基盤計画試験
 
 ## Enrollments
 
 ### 地理部
 
 67期無職．ぬいぐるみ班/ねこ班/おくすり班/言語班．
+
+### 東京大学教養学部学生自治会
+
+140/141期理事．IT近代化推進チーム．
