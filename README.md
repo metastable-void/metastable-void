@@ -25,7 +25,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 ## Timeline
 
 - [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
-- [x] 想像地図研究所 (IML) observer
+- [x] 想像地図研究所 (IML) 関東支部
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
