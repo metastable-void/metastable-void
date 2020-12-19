@@ -29,6 +29,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
+- [x] **January 2021 -**: President at 東京大学教養学部学生自治会
 - [x] **January 2020 -**: Director at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [x] **March 2018**: 東京大学地文研究会地理部67期
