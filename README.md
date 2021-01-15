@@ -50,10 +50,12 @@ R | *** | *** | 文系垢 | 鍵リア垢．
 Domain name | Status(es) | Description
 ------------|------------|-------------
 h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?
-menhera.org | Route 53 / AWS | Menhera.org organisational main domain
-menhealer.org | Route 53 / AWS | Menhera.org alias?
+menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
+menhera.com | NameBright -> Should be transferred | Menhera.org commercial services?
+menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organizational domain?) (TODO: update registration information)
+menhealer.org | Route 53 (Amazon) / AWS | Menhera.org alias?
 u-tokyo.app | Google Domains / GCP | 学生情報基盤計画試験
 
 ## Enrollments
