@@ -54,7 +54,7 @@ menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
 menhera.com | NameBright -> Should be transferred / GCP | Menhera.org commercial services?
 menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
-mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organizational domain?) (TODO: update registration information)
+mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
 menhealer.org | Route 53 (Amazon) / AWS | Menhera.org alias?
 u-tokyo.app | Google Domains / GCP | 学生情報基盤計画試験
 
