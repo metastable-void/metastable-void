@@ -51,7 +51,7 @@ Domain name | Status(es) | Description
 ------------|------------|-------------
 h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?
 menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
-menhera.com | NameBright -> Should be transferred | Menhera.org commercial services?
+menhera.com | NameBright -> Should be transferred / GCP | Menhera.org commercial services?
 menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organizational domain?) (TODO: update registration information)
