@@ -57,8 +57,7 @@ menhera.io | GMO (Onamae.com) | Menhera.org development?
 menhera.dev | GMO (Onamae.com) | Menhera.org development?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
-menhealer.org | Route 53 (Amazon) / AWS | Menhera.org alias?
-u-tokyo.app | Google Domains / GCP | 学生情報基盤計画試験
+真空.org | OVH | Personal domain name
 
 ## Enrollments
 
