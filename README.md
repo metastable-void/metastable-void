@@ -30,7 +30,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
 - [x] **January 2021 -**: President at 東京大学教養学部学生自治会
-- [x] **January 2020 -**: Director at 東京大学教養学部学生自治会 / IT近代化推進チーム
+- [x] **January 2020 - October 2021**: Director/President at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [x] **March 2018**: 東京大学地文研究会地理部67期
 - [ ] **November 2017 - November 2019**: Web PM at 東大女装子コンテスト 
@@ -64,7 +64,3 @@ mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (
 ### 地理部
 
 67期無職．ぬいぐるみ班/ねこ班/おくすり班/言語班．
-
-### 東京大学教養学部学生自治会
-
-142期自治会長．140/141期理事．IT近代化推進チーム．
