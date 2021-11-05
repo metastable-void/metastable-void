@@ -51,7 +51,7 @@ Domain name | Status(es) | Description
 ------------|------------|-------------
 h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?
 exec.su | WESTNIC / RU CENTER | Personal GitHub page?
-真空.org | OVH | Personal domain name
+真空.org (xn--w1yo5e.org) | OVH | Personal domain name
 
 ### Organizational
 
