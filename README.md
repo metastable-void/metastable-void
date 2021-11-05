@@ -13,7 +13,7 @@ Attribute | Value
 ----------|-------
 Generic name | 真空 (Japanese: しんくう，まそら), etc. (aka 水上まそら)
 Alternative name | あっと, At (@)
-Pronoun | they/them
+Pronoun | they/them for online activities
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban, Toki Pona
