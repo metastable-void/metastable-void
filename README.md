@@ -28,7 +28,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] 想像地図研究所 (IML) 関東支部
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
-- [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
+- [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 on Discord
 - [ ] **January 2020 - October 2021**: Director/President at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [x] **March 2018**: 東京大学地文研究会地理部67期
@@ -36,6 +36,8 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] **April 2017 -**: Activist at 東京大学 TOPIA
 
 ## Twitter accounts
+- [Public Social Media Policy (Japanese) (PDF)](https://raw.githubusercontent.com/around30pt/social-id/main/public-social-id.pdf)
+
 Alphabet | ID | Screen name | Proper name | Description
 ---------|----|-------------|-------------|-------------
 M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | masora_m | 真空は準安定 | 公開界隈リア垢——真空がみえる．
