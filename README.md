@@ -30,7 +30,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
 - [x] **January 2021 -**: President at 東京大学教養学部学生自治会
-- [x] **January 2020 - October 2021**: Director/President at 東京大学教養学部学生自治会 / IT近代化推進チーム
+- [ ] **January 2020 - October 2021**: Director/President at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [x] **March 2018**: 東京大学地文研究会地理部67期
 - [ ] **November 2017 - November 2019**: Web PM at 東大女装子コンテスト 
@@ -47,9 +47,17 @@ E | *** | *** | 真空のエネルギー | 縮小アカウント——真空の�
 R | *** | *** | 文系垢 | 鍵リア垢．
 
 ## Related DNS domains
+
 Domain name | Status(es) | Description
 ------------|------------|-------------
 h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?
+exec.su | WESTNIC / RU CENTER | Personal GitHub page?
+真空.org | OVH | Personal domain name
+
+### Organizational
+
+Domain name | Status(es) | Description
+------------|------------|-------------
 menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
 menhera.com | NameBright -> Should be transferred / GCP | Menhera.org commercial services?
 menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
@@ -57,7 +65,6 @@ menhera.io | GMO (Onamae.com) | Menhera.org development?
 menhera.dev | GMO (Onamae.com) | Menhera.org development?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
-真空.org | OVH | Personal domain name
 
 ## Enrollments
 
