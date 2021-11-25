@@ -13,14 +13,13 @@ Attribute | Value
 ----------|-------
 Generic name | 真空 (Japanese: しんくう，まそら), etc. (aka 水上まそら)
 Alternative name | あっと, At (@)
-Pronoun | they/them for online activities
+Pronoun | Unspecified (they/them) for online activities
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban, Toki Pona
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust, PureScript
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
-Caveats | Dissosiation, depersonalisation, discontinuous changes in personalities, possible psychosis (genetic influences, possible degradation in cognitive functions), ADHD
 
 ## Timeline
 
@@ -29,11 +28,7 @@ Caveats | Dissosiation, depersonalisation, discontinuous changes in personalitie
 - [x] Cyphanese Team member
 - [x] Virtual World Alubis member (geography)
 - [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 on Discord
-- [ ] **January 2020 - October 2021**: Director/President at 東京大学教養学部学生自治会 / IT近代化推進チーム
 - [ ] **June 2020**: TA at TeaTime Tech Lab
-- [x] **March 2018**: 東京大学地文研究会地理部67期
-- [ ] **November 2017 - November 2019**: Web PM at 東大女装子コンテスト 
-- [x] **April 2017 -**: Activist at 東京大学 TOPIA
 
 ## Twitter accounts
 - [Public Social Media Policy (Japanese) (PDF)](https://raw.githubusercontent.com/around30pt/social-id/main/public-social-id.pdf)
@@ -66,9 +61,3 @@ menhera.io | GMO (Onamae.com) | Menhera.org development?
 menhera.dev | GMO (Onamae.com) | Menhera.org development?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
-
-## Enrollments
-
-### 地理部
-
-67期無職．ぬいぐるみ班/ねこ班/おくすり班/言語班．
