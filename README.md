@@ -16,7 +16,7 @@ DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban, Esperanto
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, Rust, PureScript
-Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
+Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress, GNS3
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
 ## Timeline
