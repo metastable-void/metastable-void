@@ -8,12 +8,11 @@ Information platforms artist, social media development, medical science enthusia
 
 Attribute | Value
 ----------|-------
-Generic name | 真空 (Japanese: しんくう，まそら), etc. (aka 水上まそら)
+Generic name | 真空 (Japanese: しんくう /ˈsinkuu/，まそら /masoraˈ/), etc. (aka 水上まそら)
 Alternative name | あっと, At (@)
-Pronoun | Unspecified (they/them) for online activities
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
-Other languages | English, Lojban, Toki Pona
+Other languages | English, Lojban, Esperanto
 Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust, PureScript
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
@@ -23,18 +22,16 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 - [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
 - [x] 想像地図研究所 (IML) 関東支部
 - [x] Cyphanese Team member
-- [x] Virtual World Alubis member (geography)
-- [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 on Discord
 - [ ] **June 2020**: TA at TeaTime Tech Lab
+- [ ] **2020**: Staff at 「障害者のリアルに迫る」東大ゼミ
 
 ## Twitter accounts
 - [Public Social Media Policy (Japanese) (PDF)](https://raw.githubusercontent.com/around30pt/social-id/main/public-social-id.pdf)
 
 Alphabet | ID | Screen name | Proper name | Description
 ---------|----|-------------|-------------|-------------
-M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | chaankhoong | 真空は準安定 | 公開界隈リア垢——真空がみえる．
+M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | VacuumNotes | 真空は準安定 | 公開界隈リア垢——真空がみえる．
 T | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | \_uts2 | 真空の相転移 | 汎用鍵アカウント——真空を，もっと．
-W | [986129149029793793](https://twitter.com/intent/user?user_id=986129149029793793) | metastable_void | 真空温泉 | 業務用アカウント——真空の，机の上．
 
 ## Related DNS domains
 
