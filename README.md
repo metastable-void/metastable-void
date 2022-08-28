@@ -38,17 +38,6 @@ h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> con
 exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
 
-### Organizational
-
-Domain name | Status(es) | Description
-------------|------------|-------------
-menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
-menhera.com | NameBright -> GMO (Onamae.com) / GCP | Menhera.org commercial services?
-menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
-menhera.io | GMO (Onamae.com) | Menhera.org development?
-mnhr.org | Google Domains / GCP | Menhera.org short URIs?
-mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
-
 ## Family
 
 My dad: Toshinori MORI
