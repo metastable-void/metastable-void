@@ -27,13 +27,8 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 - [ ] **June 2020**: TA at TeaTime Tech Lab
 - [ ] **2020**: Staff at 「障害者のリアルに迫る」東大ゼミ
 
-## Twitter accounts
+## Policies
 - [Public Social Media Policy (Japanese) (PDF)](https://raw.githubusercontent.com/around30pt/social-id/main/public-social-id.pdf)
-
-Alphabet | ID | Screen name | Proper name | Description
----------|----|-------------|-------------|-------------
-M | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | VacuumNotes | 真空は準安定 | 公開界隈リア垢——真空がみえる．
-T | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | \_uts2 | 真空の相転移 | 汎用鍵アカウント——真空を，もっと．
 
 ## Related DNS domains
 
