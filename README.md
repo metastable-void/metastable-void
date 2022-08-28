@@ -1,5 +1,6 @@
 # 真空 (Yuka MORI)
 
+[![Twitter: @VacuumNotes](https://img.shields.io/badge/Twitter-@VacuumNotes-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 ![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
@@ -13,7 +14,7 @@ Alternative name | あっと, At (@)
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban, Esperanto
-Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, OCaml, Rust, PureScript
+Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, Rust, PureScript
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
@@ -46,7 +47,7 @@ exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 Domain name | Status(es) | Description
 ------------|------------|-------------
 menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
-menhera.com | NameBright -> Should be transferred / GCP | Menhera.org commercial services?
+menhera.com | NameBright -> GMO (Onamae.com) / GCP | Menhera.org commercial services?
 menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
 menhera.io | GMO (Onamae.com) | Menhera.org development?
 menhera.dev | GMO (Onamae.com) | Menhera.org development?
