@@ -3,6 +3,7 @@
 [![Twitter: @VacuumNotes](https://img.shields.io/badge/Twitter-@VacuumNotes-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
+![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)
 ![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
 
 Information platforms artist, social media development, medical science enthusiast.
