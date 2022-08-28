@@ -46,7 +46,6 @@ menhera.org | Route 53 (Amazon) / AWS | Menhera.org organisational main domain
 menhera.com | NameBright -> GMO (Onamae.com) / GCP | Menhera.org commercial services?
 menhera.info | Amazon / AFRAID.ORG | Menhera.org alias
 menhera.io | GMO (Onamae.com) | Menhera.org development?
-menhera.dev | GMO (Onamae.com) | Menhera.org development?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
 
