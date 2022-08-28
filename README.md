@@ -1,13 +1,10 @@
-# 真空
+# 真空 (Yuka MORI)
 
-![Build: buggy](https://img.shields.io/badge/build-buggy-yellow)
-![Pronoun: they/them](https://img.shields.io/badge/pronoun-they/them-blueviolet)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
-![Language: jbo](https://img.shields.io/badge/lang-jbo-green)
 ![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
 
-Methematical (formal) humanities/art, computational music theory, philosophy, linguistics, public health, geography.
+Information platforms artist, social media development, medical science enthusiast.
 
 Attribute | Value
 ----------|-------
@@ -58,3 +55,9 @@ menhera.io | GMO (Onamae.com) | Menhera.org development?
 menhera.dev | GMO (Onamae.com) | Menhera.org development?
 mnhr.org | Google Domains / GCP | Menhera.org short URIs?
 mnhr.jp | Google Domains / GCP | Menhera.org alias (JP organisational domain?) (TODO: update registration information)
+
+## Family
+
+My dad: Toshinori MORI
+
+[![Twitter: @muegamma](https://img.shields.io/badge/Twitter-@muegamma-blue)](https://twitter.com/intent/user?user_id=65528880)
