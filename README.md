@@ -8,6 +8,8 @@
 
 Information platforms artist, social media development, medical science enthusiast.
 
+![metastable-void's github stats](https://github-readme-stats.vercel.app/api?username=metastable-void&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 Attribute | Value
 ----------|-------
 Generic name | 真空 (Japanese: しんくう /ˈsinkuu/，まそら /masoraˈ/), etc. (aka 水上まそら)
