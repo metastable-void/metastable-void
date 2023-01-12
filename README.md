@@ -1,6 +1,6 @@
 # 真空 (Yuka MORI)
 
-[![Twitter: @VacuumNotes](https://img.shields.io/badge/Twitter-@VacuumNotes-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
+[![Twitter: @vericava](https://img.shields.io/badge/Twitter-@vericava-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
