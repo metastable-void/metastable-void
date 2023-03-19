@@ -24,7 +24,8 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
 ## Timeline
 
-- [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
+- [x] **January 2023**: Co-founder & Representative Director at Menhera.org (一般社団法人生活情報基盤研究機構) @menhera-org
+- [ ] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
 - [x] 想像地図研究所 (IML) 関東支部
 - [x] Cyphanese Team member
 - [ ] **June 2020**: TA at TeaTime Tech Lab
