@@ -7,7 +7,7 @@
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
 ![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
 
-Information platforms artist, social media development, medical science enthusiast.
+Information platforms artist, social media developer, medical science enthusiast.
 
 ![metastable-void's github stats](https://github-readme-stats.vercel.app/api?username=metastable-void&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -18,7 +18,7 @@ Alternative name | あっと, At (@)
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
 Other languages | English, Lojban, Esperanto
-Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, Rust, PureScript
+Favourite programming languages | Haskell, C, x86 Assembly, JavaScript, TypeScript, Rust, PureScript
 Making use of | Git, LuaLaTeX, Praat, QGIS, MediaWiki, WordPress, GNS3
 Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
@@ -28,8 +28,6 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 - [ ] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
 - [x] 想像地図研究所 (IML) 関東支部
 - [x] Cyphanese Team member
-- [ ] **June 2020**: TA at TeaTime Tech Lab
-- [ ] **2020**: Staff at 「障害者のリアルに迫る」東大ゼミ
 
 ## Policies
 - [Public Social Media Policy (Japanese) (PDF)](https://raw.githubusercontent.com/around30pt/social-id/main/public-social-id.pdf)
@@ -38,7 +36,6 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
 Domain name | Status(es) | Description
 ------------|------------|-------------
-h09.eu | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?
 exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
 
