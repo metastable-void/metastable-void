@@ -13,7 +13,7 @@ Information platforms artist, social media developer, medical science enthusiast
 
 Attribute | Value
 ----------|-------
-Generic name | 真空 <br>(Japanese: <br>&nbsp;&nbsp;&nbsp;&nbsp;(on-yomi) しんくう /ˈsinkuu/, pitch: HLLL \[ɕiŋkɯ̟ː\], <br>&nbsp;&nbsp;&nbsp;&nbsp;(kun-yomi) まそら /masoraˈ/, pitch: LHH \[mäso̞ɾä\]) <br>(Mandarin Chinese: Zhēnkōng)
+Generic name | 真空 <br>(Japanese: <br>&nbsp;&nbsp;&nbsp;&nbsp;(on-yomi) しんくう /ˈsinkuu/, pitch: HLLL \[ɕiŋkɯ̟ː\] (but commonly LHHH), <br>&nbsp;&nbsp;&nbsp;&nbsp;(kun-yomi) まそら /masoraˈ/, pitch: LHH \[mäso̞ɾä\]) <br>(Mandarin Chinese: Zhēnkōng)
 Alternative name | @ (あっと, At)
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
