@@ -13,7 +13,7 @@ Information platforms artist, social media developer, medical science enthusiast
 
 Attribute | Value
 ----------|-------
-Generic name | 真空 (Japanese: しんくう /ˈsinkuu/，まそら /masoraˈ/), etc. (aka 水上まそら)
+Generic name | 真空 <br>(Japanese: <br>&nbsp;&nbsp;&nbsp;&nbsp;(on-yomi) しんくう /ˈsinkuu/, pitch: HLLL, <br>&nbsp;&nbsp;&nbsp;&nbsp;(kun-yomi) まそら /masoraˈ/, pitch: LHH) <br>(Mandarin Chinese: Zhēnkōng)
 Alternative name | @ (あっと, At)
 DOB | 1997-05-03
 Native speaker of | Japanese language, Tokyo dialect
