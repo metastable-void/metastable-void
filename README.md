@@ -7,7 +7,7 @@
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
 ![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
 
-Information platforms artist, social media developer, medical science enthusiast.
+Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 
 ![metastable-void's github stats](https://github-readme-stats.vercel.app/api?username=metastable-void&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
