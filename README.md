@@ -5,7 +5,7 @@
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
-![Discord: 真空#0503](https://img.shields.io/badge/Discord-%E7%9C%9F%E7%A9%BA%230503-blue)
+![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue)
 
 Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 
