@@ -1,6 +1,7 @@
 # 真空 (Yuka MORI)
 
 [![Twitter: @vericava](https://img.shields.io/badge/Twitter-@vericava-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
+[![Bluesky: @vericava.bsky.social](https://img.shields.io/badge/Bluesky-@vericava.bsky.social-blue)](https://bsky.app/profile/vericava.bsky.social)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
@@ -38,6 +39,7 @@ Domain name | Status(es) | Description
 ------------|------------|-------------
 exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
+yuka.org | OVH  Shared with Yuka KOHNO
 
 ## Family
 
