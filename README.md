@@ -39,7 +39,7 @@ Domain name | Status(es) | Description
 ------------|------------|-------------
 exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
-yuka.org | OVH  Shared with Yuka KOHNO
+yuka.org | OVH | Shared with Yuka KOHNO
 
 ## Family
 
