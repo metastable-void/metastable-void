@@ -23,7 +23,7 @@ Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 
 Attribute | Value
 ----------|-------
-Generic name | 真空 <br>(Japanese: <br>&nbsp;&nbsp;&nbsp;&nbsp;(on-yomi) しんくう /ˈsinkuu/, pitch: HLLL \[ɕiŋkɯ̟ː\] (but commonly LHHH), <br>&nbsp;&nbsp;&nbsp;&nbsp;(kun-yomi) まそら /masoraˈ/, pitch: LHH \[mäso̞ɾä\]) <br>(Mandarin Chinese: Zhēnkōng)
+Generic name | 真空 <br>(Japanese: <br>&nbsp;&nbsp;&nbsp;&nbsp;(on-yomi) しんくう /ˈsinkuu/, pitch: HLLL \[ɕiŋkɯ̟ː\] (but commonly LHHH), <br>&nbsp;&nbsp;&nbsp;&nbsp;(kun-yomi) まそら /masoraˈ/, pitch: LHH \[mäso̞ɾä\]) <br>(Mandarin Chinese: Zhēnkōng)<br>(This word literally means "vacuum".)
 Alternative name | Vericava (lit. true emptiness) / @ (あっと, At)
 DOB | 1997-05-03
 Common pronouns for me | **she/her** (by physical sex), **they/them** (neutral gendering), he/him or any other pronouns (less common but okay, just not that expected)
