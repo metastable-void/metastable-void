@@ -36,7 +36,7 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 ## Timeline
 
 - [x] **January 2023 –**: Co-founder & Representative Director at Menhera.org (一般社団法人生活情報基盤研究機構) @menhera-org
-- [ ] 2022-2023: Preparation Commttee for Incorporation, Menhera.org (法人設立準備委 - 生活情報基盤研究機構)
+- [ ] 2022-2023: Preparation Committee for Incorporation, Menhera.org (法人設立準備委 - 生活情報基盤研究機構)
 - [x] Imaginary Map Laboratory (IML, 想像地図研究所), now an Independent Laboratory of Menhera.org.
 - [x] Cyphanese Team member
 
@@ -45,11 +45,17 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 
 ## Related DNS domains
 
+### Personal
 Domain name | Status(es) | Description
 ------------|------------|-------------
-exec.su | WESTNIC / RU CENTER | Personal GitHub page?
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
 yuka.org | OVH | Shared with Yuka KOHNO
+
+### Used for personal projects
+Domain name | Status(es) | Description
+------------|------------|-------------
+exec.su | WESTNIC / RU CENTER | Used for some personal projects
+alarkhabil.jp | JPDirect (JPRS) | Web publishing platform
 
 ## Family
 
