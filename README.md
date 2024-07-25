@@ -1,6 +1,6 @@
 # 真空 (Yuka MORI)
 
-[![Twitter: @vericava](https://img.shields.io/badge/Twitter-@vericava-blue)](https://twitter.com/intent/user?user_id=847315328744865793)
+[![X (Twitter): @vericava](https://img.shields.io/badge/X-@vericava-blue)](https://x.com/vericava)
 [![Bluesky: @vericava.bsky.social](https://img.shields.io/badge/Bluesky-@vericava.bsky.social-blue)](https://bsky.app/profile/vericava.bsky.social)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
@@ -46,17 +46,17 @@ Formats understood | (X)HTML, CSS, SVG, PNG, PDF
 ## Related DNS domains
 
 ### Personal
-Domain name | Status(es) | Description
+Domain name | Registrar | Description
 ------------|------------|-------------
 真空.org (xn--w1yo5e.org) | OVH | Personal domain name
 yuka.org | OVH | Shared with Yuka KOHNO
 
 ### Used for personal projects
-Domain name | Status(es) | Description
+Domain name | Registrar | Description
 ------------|------------|-------------
 exec.su | WESTNIC / RU CENTER | Used for some personal projects
 alarkhabil.jp | JPDirect (JPRS) | Web publishing platform
 
 ## Family
 
-My dad: Toshinori MORI ([![Twitter: @muegamma](https://img.shields.io/badge/Twitter-@muegamma-blue)](https://twitter.com/intent/user?user_id=65528880))
+My dad: Toshinori MORI ([![X (Twitter): @muegamma](https://img.shields.io/badge/X-@muegamma-blue)](https://x.com/muegamma))
