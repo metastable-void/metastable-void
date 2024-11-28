@@ -1,7 +1,7 @@
 # 真空 (Yuka MORI)
 
 [![X (Twitter): @vericava](https://img.shields.io/badge/X-@vericava-blue)](https://x.com/vericava)
-[![Bluesky: @vericava.bsky.social](https://img.shields.io/badge/Bluesky-@vericava.bsky.social-blue)](https://bsky.app/profile/vericava.bsky.social)
+[![Bluesky: @mori.yuka.org](https://img.shields.io/badge/Bluesky-@mori.yuka.org-blue)](https://bsky.app/profile/mori.yuka.org)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
@@ -16,6 +16,7 @@ Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 1. Although I do not want to disregard others' identities, I am happy with just being myself, and do not like others making useless arguments about something I appear to identify myself as.
    - **Gender**: **NOT** specifically transgender or queer. I am just happy with somewhat gender-neutral expressions. Commonly she/her (my legal sex) is used for me, but you are free to any pronoun(s) for me that fit to you.
    - **Nationality**: I am not regarding myself as being Japanese. I grow up in Japan, and I am a native speaker of Japanese language, I have an Asian-looking appearance, I live in Japan now, and just that. I act for my ethical duties I believe in, and not for some specific nation/goverment. I do have some interests in Japan because I live in Japan, but that does not necessarily match ones of Japan.
+   - **Religion**: I am a less religious person with strong Christianity influences.
 1. I am **open to job opportunities**.
 
 ![metastable-void's github stats](https://github-readme-stats.vercel.app/api?username=metastable-void&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
