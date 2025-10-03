@@ -7,6 +7,7 @@
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
 ![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue)
+[![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue)](https://t.me/vericava)
 
 Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 
