@@ -1,13 +1,17 @@
 # 真空 (Yuka MORI)
 
-[![X (Twitter): @vericava](https://img.shields.io/badge/X-@vericava-blue)](https://x.com/vericava)
-[![Bluesky: @mori.yuka.org](https://img.shields.io/badge/Bluesky-@mori.yuka.org-blue)](https://bsky.app/profile/mori.yuka.org)
+[![github](https://img.shields.io/github/followers/metastable-void?style=social)](https://github.com/metastable-void)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vericava)](https://x.com/vericava)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPjiQwmeSNkVFhc1F6mhoZQ)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/mori.yuka.org)](https://bsky.app/profile/mori.yuka.org)
+[![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void?logo=github&style=social)](https://github.com/sponsors/metastable-void)
+![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue?style=social&logo=discord)
+[![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue?style=social&logo=telegram)](https://t.me/vericava)
+
+[![Findy-code.io](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestGithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score)](https://findy-code.io/skills-share/RiusUj33mMCCb)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
-[![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void)](https://github.com/sponsors/metastable-void)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
-![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue)
-[![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue)](https://t.me/vericava)
 
 Information platforms activist/artist. Philosophy & medical sciences enthusiast.
 
