@@ -8,7 +8,8 @@
 ![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue?style=social&logo=discord)
 [![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue?style=social&logo=telegram)](https://t.me/vericava)
 
-[![Findy-code.io](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestGithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score)](https://findy-code.io/skills-share/RiusUj33mMCCb)
+[![Findy-code.io]([https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestGithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestV3GithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score
+))](https://findy-code.io/skills-share/RiusUj33mMCCb)
 ![Language: ja](https://img.shields.io/badge/lang-ja-blue)
 ![Language: en](https://img.shields.io/badge/lang-en-green)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
