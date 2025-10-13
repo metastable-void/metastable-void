@@ -51,7 +51,7 @@ I have an alternative name `@` (At or あっと).
 
 ## Timeline
 
-- [ ] **September 2025**: IML is closed as an Independent Laboratory (re-established as a separate group).
+- [ ] **September 2025**: IML was closed as an Independent Laboratory (re-established as a separate group).
 - [x] **January 2023 –**: Co-founder & Representative Director at Menhera.org (一般社団法人生活情報基盤研究機構) @menhera-org
 - [ ] 2022-2023: Preparation Committee for Incorporation, Menhera.org (法人設立準備委 - 生活情報基盤研究機構)
 - [x] Imaginary Map Laboratory (IML, 想像地図研究所), now an Independent Laboratory of Menhera.org.
