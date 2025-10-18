@@ -11,8 +11,8 @@
 [![LINE .__-](https://img.shields.io/badge/LINE-.____---blue?style=social&logo=line)](https://line.me/ti/p/PkxiQBQpu0)
 
 [![Findy-code.io](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestV3GithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score)](https://findy-code.io/skills-share/RiusUj33mMCCb)
-![Language: ja](https://img.shields.io/badge/lang-ja-blue)
-![Language: en](https://img.shields.io/badge/lang-en-green)
+![Language: ja](https://img.shields.io/badge/lang-ja--N-blue)
+![Language: en](https://img.shields.io/badge/lang-en--3-green)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
 
 Information platforms activist/artist. Philosophy & medical sciences enthusiast.
