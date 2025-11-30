@@ -55,6 +55,18 @@ I use the word `metastable-void`/`metastable.void`/`metastable_void` sometimes f
 
 I have an alternative name `@` (At or あっと).
 
+---
+
+## Language Profile (Short Version)
+
+I am a multilingual professional who uses English for technical and research work, and Japanese for everyday and workplace communication. My language use changes by domain rather than by nationality, and I often switch between Japanese and English depending on the people I’m talking to, especially in multilingual environments.
+
+I process language mainly through sound and context, which makes my spoken communication strong. However, I have some orthographic weaknesses in Japanese, such as difficulty recalling kanji readings in isolation or writing them by hand. These issues show up mainly in test-like situations, not in real communication or comprehension.
+
+I frequently interact with colleagues and friends from diverse backgrounds, including many L1 Chinese speakers, so I often use a mix of Japanese and English to ensure clarity. I also sometimes struggle with listening accuracy when conversations involve rapid switching, unclear articulation, or multiple accents, which is related to cognitive load rather than proficiency.
+
+Overall, I am an audio-dominant, context-driven multilingual communicator with strong practical abilities in both English and Japanese, and some limitations in kanji recall and listening under high load.
+
 ## Timeline
 
 - [ ] **September 2025**: IML was closed as an Independent Laboratory (re-established as a separate group).
