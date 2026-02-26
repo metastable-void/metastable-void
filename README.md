@@ -10,12 +10,13 @@
 [![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue?style=social&logo=telegram)](https://t.me/vericava)
 [![LINE .__-](https://img.shields.io/badge/LINE-.____---blue?style=social&logo=line)](https://line.me/ti/p/PkxiQBQpu0)
 
+[![wakatime](https://wakatime.com/badge/user/0966d2d4-6844-4ac0-b872-dede59beb5f8.svg)](https://wakatime.com/@0966d2d4-6844-4ac0-b872-dede59beb5f8)
 [![Findy-code.io](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestV3GithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score)](https://findy-code.io/skills-share/RiusUj33mMCCb)
 ![Language: ja](https://img.shields.io/badge/lang-ja--N-blue)
 ![Language: en](https://img.shields.io/badge/lang-en--3-green)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
 
-Information platforms activist/artist. Philosophy & medical sciences enthusiast.
+Hacker activist/artist. Philosophy & medical sciences enthusiast.
 
 ## TL;DR
 
@@ -24,8 +25,6 @@ Information platforms activist/artist. Philosophy & medical sciences enthusiast.
    - **Nationality**: I am not regarding myself as being Japanese. I grow up in Japan, and I am a native speaker of Japanese language, I have an Asian-looking appearance, I live in Japan now, and just that. I act for my ethical duties I believe in, and not for some specific nation/goverment. I do have some interests in Japan because I live in Japan, but that does not necessarily match ones of Japan.
    - **Religion**: I am a less religious person with strong Christianity influences.
 1. I am **open to job opportunities**.
-
-![metastable-void's github stats](https://github-readme-stats.vercel.app/api?username=metastable-void&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Attribute | Value
 ----------|-------
