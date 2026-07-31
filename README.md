@@ -68,10 +68,12 @@ Overall, I am an audio-dominant, context-driven multilingual communicator with s
 
 ## Timeline
 
+- [ ] **February 2026**: Presentation at a BoF program at JANOG57 ([slides](https://www.menhera.or.jp/assets/pdf/202602-janog57-bof-as63806-menhera.pdf))
 - [ ] **September 2025**: IML was closed as an Independent Laboratory (re-established as a separate group).
+- [ ] **July 2026**: Presentation at a BoF program at JANOG56 ([slides](https://www.menhera.or.jp/assets/pdf/j56-bof-menhera-as63806.pdf))
 - [x] **January 2023 –**: Co-founder & Representative Director at Menhera.org (一般社団法人生活情報基盤研究機構) @menhera-org
 - [ ] 2022-2023: Preparation Committee for Incorporation, Menhera.org (法人設立準備委 - 生活情報基盤研究機構)
-- [x] Imaginary Map Laboratory (IML, 想像地図研究所), now an Independent Laboratory of Menhera.org.
+- [x] **- September 2025**: Imaginary Map Laboratory (IML, 想像地図研究所), now an Independent Laboratory of Menhera.org.
 - [x] Cyphanese Team member
 
 ## Policies
@@ -93,4 +95,4 @@ alarkhabil.jp | JPDirect (JPRS) | Web publishing platform
 
 ## Family
 
-My dad: Toshinori MORI, a researcher in high-energy particle physics ([![X (Twitter): @muegamma](https://img.shields.io/badge/X-@muegamma-blue)](https://x.com/muegamma))
+My dad: Toshinori MORI, a researcher in high-energy particle physics ([![X (Twitter): @muegamma](https://img.shields.io/badge/X-@muegamma-blue)](https://x.com/muegamma) | [Researchmap](https://researchmap.jp/muegamma))
