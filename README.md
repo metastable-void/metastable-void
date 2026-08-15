@@ -23,8 +23,8 @@ Hacker activist/artist. Philosophy & medical sciences enthusiast.
 1. I am now **messing around with computers/networks, with a non-techy personal background originally**.
 1. Although I do not want to disregard others' identities, I am happy with just being myself, and do not like others making useless arguments about something I appear to identify myself as.
    - **Nationality**: I am not regarding myself as being Japanese. I grow up in Japan, and I am a native speaker of Japanese language, I have an Asian-looking appearance, I live in Japan now, and just that. I act for my ethical duties I believe in, and not for some specific nation/goverment. I do have some interests in Japan because I live in Japan, but that does not necessarily match ones of Japan.
-   - **Religion**: I am a less religious person with strong Christianity influences.
-1. I am **open to job opportunities**.
+   - **Religion**: I am a not-so-devout Christian.
+1. I am **open to job opportunities**. I am currently working as a solutions engineer at a Japanese company.
 
 Attribute | Value
 ----------|-------
