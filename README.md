@@ -4,14 +4,13 @@
 [![Sponsor @metastable-void](https://img.shields.io/github/sponsors/metastable-void?logo=github&style=social)](https://github.com/sponsors/metastable-void)
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vericava)](https://x.com/vericava)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPjiQwmeSNkVFhc1F6mhoZQ)](https://www.youtube.com/@vericava)
+[![YouTube @vericava](https://img.shields.io/badge/%40vericava-YouTube?style=social&logo=youtube)](https://www.youtube.com/@vericava)
 [![Bluesky followers](https://img.shields.io/bluesky/followers/mori.yuka.org)](https://bsky.app/profile/mori.yuka.org)
 ![Discord: zhnkng](https://img.shields.io/badge/Discord-zhnkng-blue?style=social&logo=discord)
 [![Telegram @vericava](https://img.shields.io/badge/Telegram-vericava-blue?style=social&logo=telegram)](https://t.me/vericava)
-[![LINE .__-](https://img.shields.io/badge/LINE-.____---blue?style=social&logo=line)](https://line.me/ti/p/PkxiQBQpu0)
+[![LINE .__-](https://img.shields.io/badge/LINE-.____---blue?style=social&logo=line)](https://line.me/ti/p/~.__-)
 
 [![wakatime](https://wakatime.com/badge/user/0966d2d4-6844-4ac0-b872-dede59beb5f8.svg)](https://wakatime.com/@0966d2d4-6844-4ac0-b872-dede59beb5f8)
-[![Findy-code.io](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwallpaper.menhera.org%2Fmetastable-void.score.json&query=%24.data.userPortfolioPublish.userPortfolioProfile.user.latestV3GithubAnalysisResult.deviationScore&style=flat&label=Findy%20dev.%20score)](https://findy-code.io/skills-share/RiusUj33mMCCb)
 ![Language: ja](https://img.shields.io/badge/lang-ja--N-blue)
 ![Language: en](https://img.shields.io/badge/lang-en--3-green)
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-orange)](https://www.mozilla.org/en-US/firefox/new/)
